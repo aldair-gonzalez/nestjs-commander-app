@@ -12,7 +12,7 @@ Requisitos previos
 ## Instalación
 
 ```shell
-git clone https://github.com/[tu nombre de usuario]/nestjs-example-commander.git
+git clone https://github.com/aldair-gonzalez/nestjs-commander-app.git
 ```
 
 ```shell
@@ -26,26 +26,13 @@ npm install
 npm run start
 ```
 
-La aplicación se ejecutará en http://localhost:3000.
-
-## Uso
-
-Para usar la aplicación, abre una terminal y ejecuta el comando `hello`. Por ejemplo:
-```shell
-hello
-```
-
-
-La aplicación imprimirá el siguiente mensaje:
-
-```shell
-Hello, world!
-```
-
+La aplicación se ejecutará automáticamente.
 
 ## Recursos adicionales
 
 * [Documentación de NestJS](https://docs.nestjs.com/)
+* [Instalación de NestJS](https://docs.nestjs.com/first-steps/installation)
+* [Ejecución de NestJS](https://docs.nestjs.com/first-steps/running)
 
 ## Licencia
 
